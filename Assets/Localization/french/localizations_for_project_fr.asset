@@ -30,6 +30,10 @@ MonoBehaviour:
     m_Localized: "chatouiller le tr\xE8fle"
     m_Metadata:
       m_Items: []
+  - m_Id: 111673196699648
+    m_Localized: "Bouteille \xE0 changer Mondes"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

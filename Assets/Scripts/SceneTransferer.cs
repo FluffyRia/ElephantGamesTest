@@ -6,11 +6,11 @@ namespace Assets.Scripts
 {
     public class SceneTransferer : MonoBehaviour
     {
-        [SerializeField] private SceneAsset _scene;
+        [SerializeField] private string _scene;
 
         public void Transfer()
         {
-            SceneManager.LoadScene(_scene.name);
+            SceneManager.LoadScene(_scene);
         }
     }
 }
