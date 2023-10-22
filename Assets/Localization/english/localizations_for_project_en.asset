@@ -30,6 +30,10 @@ MonoBehaviour:
     m_Localized: tickle the clover
     m_Metadata:
       m_Items: []
+  - m_Id: 111673196699648
+    m_Localized: Bottle to change Worlds
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
