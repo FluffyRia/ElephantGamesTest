@@ -26,6 +26,10 @@ MonoBehaviour:
     m_Localized: Go to the first scene!
     m_Metadata:
       m_Items: []
+  - m_Id: 72499357835264
+    m_Localized: tickle the clover
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

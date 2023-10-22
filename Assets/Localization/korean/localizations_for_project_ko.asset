@@ -10,26 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: localizations_for_project_ru
+  m_Name: localizations_for_project_ko
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: ru
+    m_Code: ko
   m_SharedData: {fileID: 11400000, guid: 689e170f2341ca34da4af60ac839cb45, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
   - m_Id: 15589728256
-    m_Localized: "\u041F\u0435\u0440\u0435\u0439\u0442\u0438 \u043A\u043E \u0432\u0442\u043E\u0440\u043E\u0439
-      \u0441\u0446\u0435\u043D\u0435!"
+    m_Localized: "\uB450 \uBC88\uC9F8 \uC7A5\uBA74\uC73C\uB85C \uC774\uB3D9\uD558\uC138\uC694!"
     m_Metadata:
       m_Items: []
   - m_Id: 122888413184
-    m_Localized: "\u041F\u0435\u0440\u0435\u0439\u0442\u0438 \u043A \u043F\u0435\u0440\u0432\u043E\u0439
-      \u0441\u0446\u0435\u043D\u0435!"
+    m_Localized: "\uCCAB \uBC88\uC9F8 \uC7A5\uBA74\uC73C\uB85C \uC774\uB3D9\uD558\uC138\uC694!"
     m_Metadata:
       m_Items: []
   - m_Id: 72499357835264
-    m_Localized: "\u043F\u043E\u0449\u0435\u043A\u043E\u0447\u0438 \u043A\u043B\u0435\u0432\u0435\u0440"
+    m_Localized: "\uD074\uB85C\uBC84 \uAC04\uC9C0\uB7FC"
     m_Metadata:
       m_Items: []
   references:
