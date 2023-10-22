@@ -10,20 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: localizations_for_project_ja
+  m_Name: localizations_for_project_ko
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: ja
+    m_Code: ko
   m_SharedData: {fileID: 11400000, guid: 689e170f2341ca34da4af60ac839cb45, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
   - m_Id: 15589728256
-    m_Localized: "\u30B7\u30FC\u30F32\u3078\uFF01"
+    m_Localized: "\uB450 \uBC88\uC9F8 \uC7A5\uBA74\uC73C\uB85C \uC774\uB3D9\uD558\uC138\uC694!"
     m_Metadata:
       m_Items: []
   - m_Id: 122888413184
-    m_Localized: "\u6700\u521D\u306E\u30B7\u30FC\u30F3\u306B\u30B9\u30AD\u30C3\u30D7\u3059\u308B\uFF01"
+    m_Localized: "\uCCAB \uBC88\uC9F8 \uC7A5\uBA74\uC73C\uB85C \uC774\uB3D9\uD558\uC138\uC694!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72499357835264
+    m_Localized: "\uD074\uB85C\uBC84 \uAC04\uC9C0\uB7FC"
     m_Metadata:
       m_Items: []
   references:

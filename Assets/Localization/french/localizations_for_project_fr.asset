@@ -26,6 +26,10 @@ MonoBehaviour:
     m_Localized: "Passez \xE0 la premi\xE8re sc\xE8ne !"
     m_Metadata:
       m_Items: []
+  - m_Id: 72499357835264
+    m_Localized: "chatouiller le tr\xE8fle"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
