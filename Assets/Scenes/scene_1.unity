@@ -351,7 +351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 00bcbdeb903397146a9a96325f14ca2f, type: 2}
+  skeletonDataAsset: {fileID: 0}
   initialSkinName: default
   initialFlipX: 0
   initialFlipY: 0
@@ -390,7 +390,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3e4c340ad0878e149bc356019856250b, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1008,6 +1008,67 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1108637359514870186, guid: e66556752f2701a4980a03bfc545980a, type: 3}
   m_PrefabInstance: {fileID: 4158570160915374871}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4310448391831860377
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4310448392908903531, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_Name
+      value: spine_crab
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903532, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4310448392908903535, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1dca3647cf1abb143ad4f8f10c8f9f99, type: 3}
 --- !u!1001 &4910479176358862016
 PrefabInstance:
   m_ObjectHideFlags: 0
