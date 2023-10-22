@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1914346344439406228}
   - component: {fileID: 8958279601939177241}
   m_Layer: 0
-  m_Name: clickable_animated_static_sprite
+  m_Name: clickable_animated_sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
