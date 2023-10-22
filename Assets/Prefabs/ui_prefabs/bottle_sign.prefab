@@ -69,8 +69,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: tickle clover
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 15c0407c4722a91479b330880b9f828f, type: 2}
-  m_sharedMaterial: {fileID: 1599578080615265804, guid: 15c0407c4722a91479b330880b9f828f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c33b61ae0a82d29498b30823cb54e2a4, type: 2}
+  m_sharedMaterial: {fileID: 1811497168191845093, guid: c33b61ae0a82d29498b30823cb54e2a4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

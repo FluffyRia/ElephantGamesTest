@@ -1204,7 +1204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 482efb100bde7d74090d2280c6f37d10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scene: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+  _scene: scene_1
 --- !u!1001 &1874954002
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1412,7 +1412,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8987070103615812048, guid: e66556752f2701a4980a03bfc545980a, type: 3}
       propertyPath: m_Name
-      value: clickable_turner
+      value: clickable_toggler_bottle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e66556752f2701a4980a03bfc545980a, type: 3}
